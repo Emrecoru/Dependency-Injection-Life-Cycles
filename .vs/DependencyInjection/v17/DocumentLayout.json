@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\pc\\source\\repos\\dependencyinjection\\dependencyinjection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\pc\\source\\repos\\dependencyinjection\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\pc\\source\\repos\\dependencyinjection\\dependencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\pc\\source\\repos\\dependencyinjection\\dependencyinjection\\services\\concrete\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\services\\concrete\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\pc\\source\\repos\\dependencyinjection\\dependencyinjection\\services\\abstract\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\services\\abstract\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|c:\\users\\pc\\source\\repos\\dependencyinjection\\dependencyinjection\\services\\abstract\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3627B-2BB5-4070-9E0E-FD6C3319FA73}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\services\\abstract\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingletonService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Services\\Concrete\\SingletonService.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Services\\Concrete\\SingletonService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Services\\Concrete\\SingletonService.cs",
+              "RelativeToolTip": "DependencyInjection\\Services\\Concrete\\SingletonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:13:27.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Services\\Abstract\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Services\\Abstract\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Services\\Abstract\\IServiceBase.cs",
+              "RelativeToolTip": "DependencyInjection\\Services\\Abstract\\IServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:13:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISingletonService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Services\\Abstract\\ISingletonService.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Services\\Abstract\\ISingletonService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Services\\Abstract\\ISingletonService.cs",
+              "RelativeToolTip": "DependencyInjection\\Services\\Abstract\\ISingletonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:13:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:08:47.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DependencyInjection\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:25:46.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjection\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\DependencyInjection\\DependencyInjection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DependencyInjection\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T12:36:00.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

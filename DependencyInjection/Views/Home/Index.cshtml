@@ -1,0 +1,34 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+@inject DependencyInjection.Services.Abstract.IScopedService scopedService;
+@inject DependencyInjection.Services.Abstract.ISingletonService singletonService;
+@inject DependencyInjection.Services.Abstract.ITransientService transientService;
+
+<h1>
+    Singleton
+</h1>
+<p>
+    1 - Singleton  = @ViewBag.Singleton
+    <br />
+    2 - Singleton = @singletonService.GuidId
+</p>
+<br />
+<h1>
+    Transient
+</h1>
+<p>
+    1 - Transient = @ViewBag.Transient
+    <br />
+    2 - Transient = @transientService.GuidId
+</p>
+<br />
+<h1>
+    Scoped
+</h1>
+<p>
+    1 - Scoped = @ViewBag.Scoped
+    <br />
+    2 - Scoped = @scopedService.GuidId
+</p>
